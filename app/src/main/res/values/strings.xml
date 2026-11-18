@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HyperBoost Game Space</string>
+    <string name="perm_overlay">Izin Overlay</string>
+    <string name="perm_usage">Usage Access</string>
+    <string name="boost_ram">🧹 Boost RAM</string>
+    <string name="stop_overlay">Stop HUD</string>
+    <string name="games">Game terdeteksi</string>
+    <string name="no_games">Belum ada game terdeteksi.</string>
+    <string name="boost_play">Boost &amp; Main</string>
+</resources>
